@@ -43,3 +43,12 @@ C:\Users\seank\OneDrive\Documents\GitHub\Assign5.1_KyleSean\ChessGame\ChessGame\
 C:\Users\seank\OneDrive\Documents\GitHub\Assign5.1_KyleSean\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
 C:\Users\seank\OneDrive\Documents\GitHub\Assign5.1_KyleSean\ChessGame\ChessGame\obj\Debug\ChessGame.exe
 C:\Users\seank\OneDrive\Documents\GitHub\Assign5.1_KyleSean\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\obj\Debug\ChessGame.csprojAssemblyReference.cache
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\obj\Debug\ChessGame_KyleSean.Form1.resources
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+G:\Users\Atlas\Documents\GitHub\Assign5_Final\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
